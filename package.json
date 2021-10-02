@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-softbyte",
-  "version": "development-0.0.0",
+  "version": "0.0.0-development",
   "main": "index.js",
   "repository": "git@github.com:poleflare/eslint-config-softbyte.git",
   "author": "Anders Quist <anders@qinfo.se> (https://softbyte.dev/)",
