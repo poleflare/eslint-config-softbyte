@@ -7,7 +7,16 @@
     "@semantic-release/npm",
     "@semantic-release/release-notes-generator",
     "semantic-release-contributors",
-    "@semantic-release/github"
+    [
+      "@semantic-release/github",
+      {
+        "assets": [
+          {
+            "path": "*.tgz"
+          }
+        ]
+      }
+    ]
   ],
   "tagFormat": "v${version}"
 }
