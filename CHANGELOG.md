@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/poleflare/eslint-config-softbyte/compare/v1.0.0...v1.0.1) (2021-10-04)
+
+
+### Bug Fixes
+
+* only relevant files ([091b896](https://github.com/poleflare/eslint-config-softbyte/commit/091b896b7cf285bdce30324481f2f1caef1d4643))
+
 # 1.0.0 (2021-10-02)
 
 
