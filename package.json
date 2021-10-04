@@ -5,6 +5,11 @@
   "repository": "git@github.com:poleflare/eslint-config-softbyte.git",
   "author": "Anders Quist <anders@qinfo.se> (https://softbyte.dev/)",
   "license": "MIT",
+  "files": [
+    ".eslintrc.js",
+    "index.js",
+    "CHANGELOG.md"
+  ],
   "scripts": {
     "commit": "git-cz",
     "semantic-release": "semantic-release"
